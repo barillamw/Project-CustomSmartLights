@@ -96,7 +96,7 @@ The Christmas Lights component utilizes a Node MCU, a low-cost open-source IoT p
 
 
 ### Built With
-
+[![CPP][CPP]][CPP-url]
 [![C][C]][C-url]
 [![RapsberryPi][RapsberryPi]][RaspberryPi-url]
 [![Arduino][Arduino]][Arduino-url]
@@ -193,3 +193,5 @@ Project Link: [https://github.com/barillamw/Project-CustomSmartLights](https://g
 [Arduino-url]: https://www.arduino.cc/
 [RapsberryPi]: https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi
 [RaspberryPi-url]: https://www.raspberrypi.com/
+[CPP]: https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white
+[CPP-url]: https://isocpp.org/
