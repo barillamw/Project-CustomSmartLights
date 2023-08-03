@@ -148,7 +148,7 @@ Contributions are what make the open source community such an amazing place to l
 <!-- CONTACT -->
 ## Contact
 
-Your Name - mbarill@ncsu.edu.com
+Michael Barilla - mbarill@ncsu.edu.com
 
 Project Link: [https://github.com/barillamw/Project-CustomSmartLights](https://github.com/barillamw/Project-CustomSmartLights)
 
